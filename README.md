@@ -13,7 +13,7 @@
  </div> 
 A new diagnostic paradigm based on Dynamic Semantic Fusion, implemented through a framework named Knowledge Graph Cross-modal Attention (KGCA)
 The workflow of our work are shown bellow:
-[Fig.1.pdf](https://github.com/user-attachments/files/22770401/Fig.1.pdf)
+<img width="4445" height="2308" alt="Fig 1" src="https://github.com/user-attachments/assets/a6a5748d-d592-419b-ae6f-65e109f8bd2c" />
 
 ### coming soon 
 The code will be released as soon as possible after the article is received.
