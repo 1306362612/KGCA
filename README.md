@@ -12,3 +12,15 @@
   <sup>1</sup>Xinjiang University,  <sup>2</sup>Xinjiang Institute of Engineering, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>the China Coal Technology & Engineering Group Xinjiang Research Institute.  <sup>*</sup>Corresponding author.
  </div> 
 A new diagnostic paradigm based on Dynamic Semantic Fusion, implemented through a framework named Knowledge Graph Cross-modal Attention (KGCA)
+The workflow of our work are shown bellow:
+[Fig.1.pdf](https://github.com/user-attachments/files/22770401/Fig.1.pdf)
+
+### coming soon 
+The code will be released as soon as possible after the article is received.
+
+## Contact
+
+Please contact any of the first authors of this paper for queries.
+
+- Dan song, `songdan@stu.xju.edu.cn`
+
